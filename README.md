@@ -25,3 +25,6 @@ Commit all files except `.env.local`, including `api/extract.py` and `requiremen
 - The match score is an AI estimate, not an actual ATS score or hiring probability.
 - This starter has no authentication or persistent rate limiting; add abuse protection before broad public use.
 - Model configured: `gemini-3.8-flash`; verify availability in Google's current documentation if access changes.
+
+Live link - https://carrerlensproject.vercel.app/
+ 
